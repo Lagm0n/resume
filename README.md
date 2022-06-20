@@ -69,7 +69,7 @@ Coldwallet<br>
 - 작업 부분 : 프론트 엔드 부분 - 싱글페이지 화면전환 각 탭 마다 다른 Api를 호출해 데이터를 받아와 지갑 리스트를 그리고 새로운 지갑 주소를 생성하고 암호 화폐 목록표출
 
 GASTIGER 2000<br>
-- 소개 : 가스 측정값 전송 앱으로 블루투스 기능이 있는 디바이스를 핸드폰을 통해 서버로 데이터 전송
+- 소개 : 가스 측정값 전송 앱으로 블루투스 기능이 있는 디바이스를 핸드폰을 통해 실시간으로 서버에 데이터 전송
 - 기간 : 2022.03 ~ 2022.05
 - Framewokr : Flutter
 - 사용 언어 : Dart
@@ -79,7 +79,11 @@ GASTIGER 2000<br>
     2. MODBUS Protocol 분석
     3. 데이터 분석함수 구현
     4. 데이터 전송
-    5. UI 구현  
+    5. UI 구현
+    <img src="https://ifh.cc/g/44xD5S.jpg" width="150">
+    <img src="https://ifh.cc/g/oFQYVb.jpg" width="150">
+    <img src="https://ifh.cc/g/DgK5aR.jpg" width="150">
+    <img src="https://ifh.cc/g/xRrf2F.jpg" width="150">  
 
 ### 수상경력
 
