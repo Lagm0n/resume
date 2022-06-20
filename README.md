@@ -20,8 +20,8 @@
 <br>
 
 ## 경력 
-2020.12.21 ~ 2021.06.20 유피체인(6개월)
-2021.08.01 ~ 2022.08.01 theway(12개월)
+- 2020.12.21 ~ 2021.06.20 유피체인(6개월)
+- 2021.08.01 ~ 2022.08.01 theway(12개월)
 
 ## Project
 CreditBlock<br>
@@ -68,6 +68,16 @@ Coldwallet<br>
 - 사용 언어 : Dart
 - 작업 부분 : 프론트 엔드 부분 - 싱글페이지 화면전환 각 탭 마다 다른 Api를 호출해 데이터를 받아와 지갑 리스트를 그리고 새로운 지갑 주소를 생성하고 암호 화폐 목록표출
 
+STX 이력관리 시스템<br>
+- 소개 : 군수 산업체 엔진 정비하는 업체로 엔진 정비이력관리 시스템, 시운전 센서데이터 집계 프로그램, 예지정비 프로그램 등이 포함된 MES 프로그램 
+- 기간 : 2021.10 ~ 2022.03
+- 사용언어 : C#
+- 작업 내용 : 
+    1. 엔진정비 업무 분석, 업무 프로세스 작성
+    2. 개발 프로세스 작성
+    3. 시운전 업무 분석, 업무 프로세스 작성
+    4. PLC에서 센서데이터를 집계하고 그래프로 디스플레이
+
 GASTIGER 2000<br>
 - 소개 : 가스 측정값 전송 앱으로 블루투스 기능이 있는 디바이스를 핸드폰을 통해 실시간으로 서버에 데이터 전송
 - 기간 : 2022.03 ~ 2022.05
@@ -83,8 +93,18 @@ GASTIGER 2000<br>
     <img src="https://ifh.cc/g/44xD5S.jpg" width="150">
     <img src="https://ifh.cc/g/oFQYVb.jpg" width="150">
     <img src="https://ifh.cc/g/DgK5aR.jpg" width="150">
-    <img src="https://ifh.cc/g/xRrf2F.jpg" width="150">  
-
+    <img src="https://ifh.cc/g/xRrf2F.jpg" width="150">
+```
+test GASTIGER 2000
+- 소개 : 가스 측정 디바이스와 연동하여 console에서 돌아가게 만들어놓은 테스트 프로그램 
+- 기간 : 2022.03 ~ 2022.04
+- 사용 언어 : python
+- 작업 부분 :
+    1. 블루투스 통신
+    2. MODBUS Protocol 분석
+    3. 데이터 분석함수 구현
+    4. 데이터 전송
+```
 ### 수상경력
 
 #### 2020 블록체인 아이디어 공모전 - 한국인터넷진흥원(KISA) 원장상
@@ -97,7 +117,7 @@ GASTIGER 2000<br>
 하고 기업 이미지를 개선할 수 있을 것 입니다.
 ```
 - 수상 날짜 : 2020년 11월 
-- 공모전 PDF : https://github.com/sp0nd/resume/tree/main/project
+- 공모전 PDF : https://github.com/Lagm0n/resume/tree/main/project
 <br>
 
 
