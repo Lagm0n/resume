@@ -115,10 +115,10 @@ GASTIGER 2000<br>
     3. 데이터 분석함수 구현
     4. 데이터 전송
     5. UI 구현
-    <img src="https://ifh.cc/g/44xD5S.jpg" width="150">
-    <img src="https://ifh.cc/g/oFQYVb.jpg" width="150">
-    <img src="https://ifh.cc/g/DgK5aR.jpg" width="150">
-    <img src="https://ifh.cc/g/xRrf2F.jpg" width="150">
+    <img src="/images/connect.jpg" width="150">
+    <img src="/images/home.jpg" width="150">
+    <img src="/images/realdata.jpg" width="150">
+    <img src="/images/scan.jpg" width="150">
 ```
 test GASTIGER 2000
 - 소개 : 가스 측정 디바이스와 연동하여 console에서 돌아가게 만들어놓은 테스트 프로그램 
