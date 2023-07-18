@@ -33,8 +33,8 @@ CreditBlock<br>
 굿츠<br>
 - 소개 : 다이어트 및 건강식 쇼핑몰
 - 기간 : 2020.12 ~ 2021.01
+- 사용언어 : java script,java
 - Framework : React, React Native, Spring boot
-- 사용언어 : js,java
 - 작업 내용 : 
     1. spring boot 로 해시태그 CRUD 구현
     2. React Native로 굿츠 앱 해시태그, 배너리스트 구현
@@ -43,8 +43,8 @@ CreditBlock<br>
 와우팍스<br>
 - 소개 : 암호화폐 거래소
 - 기간 : 2021.02 ~ 2021.03
-- Framework : vue.js, jquery
-- 사용언어 : js
+- 사용언어 : java script
+- Framework : vue.js, jquery, react
 - 작업 내용 : 
     1. 와우팍스 거래소 번역작업 json 파일로 한글, 영어, 중국어, 일어을 번역하여 저장하고 AWS S3에 올려 개발서버와 상용 서버 번역데이터 관리
     2. i18n으로 홈페이지 번역
@@ -52,9 +52,9 @@ CreditBlock<br>
 UPtalk<br>
 - 소개 : 회사 내부 연락용 메신저
 - 기간: 2021.03 ~ 2021.04
-- Framework : Flutter 
 - 사용 언어 : Dart
-- 작업내용 : 
+- Framework : Flutter 
+- 작업내용 (FrontEnd):
     1. 본인 프로필
     2. 챗팅방 리스트 
     3. 설정 페이지 
@@ -64,8 +64,8 @@ UPtalk<br>
 Coldwallet<br>
 - 소개 : 암호화폐 하드웨어 지갑
 - 기간 : 2021.05 ~ 2021.06
-- Framework : Flutter
 - 사용 언어 : Dart
+- Framework : Flutter
 - 작업 부분 : 프론트 엔드 부분 - 싱글페이지 화면전환 각 탭 마다 다른 Api를 호출해 데이터를 받아와 지갑 리스트를 그리고 새로운 지갑 주소를 생성하고 암호 화폐 목록표출
 
 STX 이력관리 시스템<br>
@@ -78,11 +78,31 @@ STX 이력관리 시스템<br>
     3. 시운전 업무 분석, 업무 프로세스 작성
     4. PLC에서 센서데이터를 집계하고 그래프로 디스플레이
 
+실시간 센서데이터 모니터링 시스템<br>
+- 소개 : 정비시 발생하는 센서 데이터를 실시간으로 그래프화하고, 선택한 센서데이터 최대 3개 데이터를 보여줄 수 있음
+- 기간 : 2022.10 ~ 2022.11
+- 사용언어 : C#
+- Framework : WPF(Windows Presentation Foundation)
+- 작업 내용 :
+    1. UI 설계
+    2. 개발 프로세스 작성
+    3. 센서별 실시간 그래프 작업
+
+예지정비 프롬프트 개발<br>
+- 소개 : 오라클에서 부품 데이터 마이닝한 후 MariaDB에 데이터를 저장, MariaDB에 있는 부품 데이터(가격, 리드타임, 소요주기 등)을 AI로 분석하여 다음 부품예상 소요일 예측을 통한 축적자산 방지를 목적으로 사용하는 프로그램
+- 기간 : 2022.08 ~ 2023.01
+- 사용언어 : python
+- 작업 내용 :
+    1. AI 프롬프트 프로그램 개발
+    2. DB 명세서 작성
+    3. DB 설계
+    4. AI 예측률 보고서 작성
+    
 GASTIGER 2000<br>
 - 소개 : 가스 측정값 전송 앱으로 블루투스 기능이 있는 디바이스를 핸드폰을 통해 실시간으로 서버에 데이터 전송
 - 기간 : 2022.03 ~ 2022.05
-- Framewokr : Flutter
 - 사용 언어 : Dart
+- Framewokr : Flutter
 - 작업 부분 : 
     APP
     1. 블루투스 통신
