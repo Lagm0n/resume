@@ -28,14 +28,14 @@ CreditBlock<br>
 - 소개 : 2020 블록체인 아이디어 공모전 구현
 - 기간 : 2020.10 ~ 2020.12
 - 사용기술 : 블록체인(Hyperledger Fabric)
-- 사용언어 : goLang,java,yaml,shellScript(Bash)
+- 사용언어 : goLang,java,shellScript(Bash)
 
 굿츠<br>
 - 소개 : 다이어트 및 건강식 쇼핑몰
 - 기간 : 2020.12 ~ 2021.01
 - 사용언어 : java script,java
 - Framework : React, React Native, Spring boot
-- 작업 내용 : 
+- 작업 내용 (FrontEnd): 
     1. spring boot 로 해시태그 CRUD 구현
     2. React Native로 굿츠 앱 해시태그, 배너리스트 구현
     3. React로 관리자페이지 배너 순서 수정및 삭제 추가 구현, 판매자 페이지 상품등록관련 페이지 구현
@@ -97,7 +97,7 @@ STX 이력관리 시스템<br>
 - 소개 : 오라클에서 부품 데이터 마이닝한 후 MariaDB에 데이터를 저장, MariaDB에 있는 부품 데이터(가격, 리드타임, 소요주기 등)을 AI로 분석하여 다음 부품예상 소요일 예측을 통한 축적자산 방지를 목적으로 사용하는 프로그램
 - 기간 : 2022.08 ~ 2023.01
 - 사용언어 : python
-- 작업 내용 :
+- 작업 내용 (FrontEnd, BackEnd):
     1. AI 프롬프트 프로그램 개발(adaboost, extra-trees, decision tree)
     2. DB 명세서 작성
     3. DB 설계
@@ -149,7 +149,7 @@ test GASTIGER 2000
 <br>
 
 
-## 사용기술
+<!-- ## 사용기술
 
 ### Programming Skill
 
@@ -204,5 +204,5 @@ Hyperledger Fabric 구현함<br>
  여러개의 명령어를 shellScript파일로 작성하여 명령어를 한번에 실행할 수 있게 구현함<br>
  yaml으로 orderer,Organization,client등을 스펙을 조작가능<br>
  제네시스 블록 ,인증서등을 생성하고 채널 생성 및 Org등록을 할 수 있고, chaincode 또한 Go언어와
- Java로 응용가능<br>
+ Java로 응용가능<br> -->
 
